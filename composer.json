@@ -19,7 +19,7 @@
         "ext-soap": "*",
         "psr/log": "*",
         "php-http/httplug": "^2.0",
-        "php-http/guzzle6-adapter": "^2.0"
+        "php-http/guzzle6-adapter": "^2.0.2"
     },
     "autoload": {
         "psr-4": {
